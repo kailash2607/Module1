@@ -8,7 +8,18 @@ To write a Python program that prints the characters `'T'` and `'a'` using chara
 2. Print the character `'a'`.
 
 ## 🧾 Program
-
+```
+print("T")
+print("a")
+```
+```
+Name:Kailash Prabhu S
+Reg No:212224240068
+```
 ## Output
 
+![image](https://github.com/user-attachments/assets/02051622-4acf-44f6-b91e-9b3cc0a861ad)
+
+
 ## Result
+Thus Output is Verified
